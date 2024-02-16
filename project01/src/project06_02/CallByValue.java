@@ -2,7 +2,7 @@ package project06_02;
 
 public class CallByValue {
 	
-	//메소드 정의
+	//메소드 정의 jhjih
 	//접근지정자 (static) 반환타입 메소드명 (매개변수) {}
 	public static int sum (int a, int b) {
 		a = 100;
